@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "711758985055",
+    "firebase_url": "https://kitaplik-fb03a.firebaseio.com",
+    "project_id": "kitaplik-fb03a",
+    "storage_bucket": "kitaplik-fb03a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711758985055:android:8d58aeae414d202d",
+        "android_client_info": {
+          "package_name": "ahmetsuna.com.kitapsatis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711758985055-md1la86n9isl397093upjsdgdpb8j8dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_dlLqtKoKFLk6yq6gTNIP38Vd8RExP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

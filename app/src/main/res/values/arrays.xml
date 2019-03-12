@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="kitaplar">
+        <item>Çalıkuşu</item>
+        <item>Dövüş Kulubü</item>
+        <item>Eylül</item>
+        <item>Fareler ve İnsanlar</item>
+        <item>Hayvan Çiftliği</item>
+        <item>İnsancıklar</item>
+        <item>Kürk Mantolu Madonna</item>
+        <item>Satranç</item>
+        <item>Sineklerin Tanrısı</item>
+        <item>Sinekli Bakkal</item>
+        <item>Suç ve Ceza</item>
+        <item>Yüz Yıllık Yalnızlık</item>
+
+    </string-array>
+
+    <string-array name="kitapYazarlari">
+        <item>REŞAT NURİ GÜNTEKİN</item>
+        <item>CHUCK PALAHNIUK</item>
+        <item>MEHMET RAUF</item>
+        <item>JOHN STEINBECK</item>
+        <item>GEORGE ORWELL</item>
+        <item>DOSTOYEVSKİ</item>
+        <item>SABAHATTİN ALİ</item>
+        <item>STEFAN ZWEIG</item>
+        <item>WILLIAM GOLDING</item>
+        <item>HALİDE EDİB ADIVAR</item>
+        <item>DOSTOYEVSKİ</item>
+        <item>G. GARCIA MARQUEZ</item>
+
+    </string-array>
+
+    <string-array name="kitapOzellikleri">
+
+        <item>
+            \t Çalıkuşu ilk kez 1922 yılında Vakit gazetesinde tefrika edilmiş ve aynı yıl kitap olarak basılmıştır. Beşinci baskısından sonra eser, 1939 yılında bizzat Reşat Nuri Güntekin tarafından sonra tekrar yayımlanmıştır. Bu kitap söz konusu baskısından yararlanılarak aslına uygun olarak yayına hazırlanmıştır.\n\n
+        </item>
+
+        <item>
+            \t İstenmeyen yağlar. Pahalı, butik sabunlar. Maaş çekleri, güzel bir ev, zarif mobilyalar. Yalnızlık ve yabancılaşma. Tüketimin susmayan arsız çağrısı. Yalanlar ve yalanlar. Nefret ve öfke. İlk kez yayımlandığı 1996dan beri bir yeraltı klasiği olarak anılan Dövüş Kulübü, yeni binyılın eşiğinde geçen bir anti ütopya öyküsünü anlatıyor. Yaşadığı hayattan nefret eden, ölüm düşüncesini saplantı haline getirmiş, insani yakınlığı kanser dayanışma gruplarında arayan genç adam. Ama aynı dayanışma gruplarının bir başka müdavimi, toplum kaçkını bir genç kadın. Ve Tyler Durden; yalanlar ve mutsuzlukla dolu bir dünyaya kendi yöntemleriyle saldıran yarı çılgın bir kurtarıcı, baştan çıkarıcı bir intikam meleği. Tylerın felsefesine göre, tüketim kültürünün uyuşturucu etkisinden kurtulmanın yolu, fiziksel acıyla tanışarak yeniden doğmaktır. Çok geçmeden, gecenin geç saatlerinde bar bodrumlarında toplanan gizli bir dövüş kulübü ülkenin dört yanını saracaktır. Ama Tylerın dünyasında sınırlara ve kurallara yer yoktur. Kendi bedenini örseleyen bir müritler ordusu, toplum düzenini ve konformizmi imha etmek üzere Tylerın peşine takılır. Chuck Palahniukun ilk romanı, tüketim kültürüne, hırs ve üstünlük duygusuna, güzellik idealine ve iş dünyasına zehir zemberek bir eleştiri yöneltiyor. Palahniuk, karanlık bir mizahla desteklediği güçlü ve çarpıcı üslubuyla, yaşadığımız dünyanın çirkin suretine ayna tutuyor. Son on yılın en özgün, en sarsıcı romanları arasında sayılan Dövüş Kulübünü Türkçeye kazandırmaktan sevinç duyuyoruz \n\n
+        </item>
+
+        <item>
+            \t Süreyya Bey ve Suad "Hanım"ın mutlu bir evlilikleri vardır. Evliliklerinin üzerinden beş yıl gecmesine rağmen "Süreyya"nın ailesiyle birlikte oturmaktadırlar. Fakat evin havası, artık Süreyya ve "Suad"a sıkıcı gelmektedir. Süreyya, bir an önce bu evden ayrılıp, denize bakan sakin bir evde yaşamanın, en azından yazı orada geçirmenin hayalini kurmaktadır. Kısa bir süre sonra "Süreyya"nın hayali gerçekleşir ve "Suad"ın babasından aldığı para sayesinde "Boğaziçi"nde bir yalı kiralarlar. "Süreyya"nın arkadaşı Necip, ailenin yakın dostudur. Suad müziğe; Süreyya denize meraklıdır. Biri coğunlukla evde, diğeri denizde vakit geçirmektedir. Daha cok Suad ile evde kalan Necip, onu sevmeye baslar; Suad da bu sevgiye kayitsiz kalmaz. Zamanla ikisi de iç hesaplaşmalara başlarlar ve sevgilerinin kirletilmemesi için çaba harcarlar. Roman, psikolojik tahlillerin yapıldığı ve bu yonuyle edebiyat tarihimizin ilkleri arasında yer alan bir eserdir \n\n
+        </item>
+
+        <item>
+            \t Pulitzer ve Nobel Edebiyat "Ödülü"nü kazanan John "Steinbeck"in çağımızın toplumsal ve insani meselelerini ustalıkla resmettiği eserleri modern dünya edebiyatının başyapıtları arasında yer alır. Steinbeck romanlarında yalın ve keskin bir gerçeklik sunarken yine de her seferinde çarpıcı bir öykü ile çıkar okurunun karşısına. Tarihin bir kesitindeki dramı insani ayrıntıları kaçırmadan sergilerken, "tozpembe olmayan gerçekçi bir umudun" türküsünü dillendirir. Bu nedenle eserleri edebi değerleri kadar güncelliklerini de hiç yitirmemiştir. Fareler ve İnsanlar, birbirine zıt karakterdeki iki mevsimlik tarım işçisinin, zeki George Milton ve onun güçlü kuvvetli ama akli dengesi bozuk yoldaşı Lennie "Small"un öyküsünü anlatır. Küçük bir toprak satın alıp insanca bir hayat yaşamanın hayalini kuran bu ikilinin öyküsünde dostluk ve dayanışma duygusu önemli bir yer tutar. Steinbeck insanın insanla ilişkisini anlatmakla kalmaz insanın doğayla ve toplumla kurduğu ilişkileri de konu eder bu destansı romanında. Kitabın ismine ilham veren Robert Burns şiirindeki gibi; "En iyi planları farelerin ve insanların / Sıkça ters gider..." \n\n
+        </item>
+
+        <item>
+            \t İngiliz yazar George Orwell, ülkemizde daha çok Bin Dokuz Yüz Seksen Dört adlı kitabıyla tanınır. Hayvan Çiftliği, onun çağdaş klasikler arasına girmiş bir diğer çok ünlü eseridir. 1940lardaki "reel sos­yalizm"in eleştirisi olan bu roman, dünya edebiyatında yergi türünün başyapıtlarından biri olarak kabul edilir. Hayvan Çiftliğinin başkişileri hayvanlardır. Bir çiftlikte yaşayan hayvanlar, kendilerini sömüren insanlara başkaldırıp çiftliğin yönetimini ele geçirir. Amaçları daha eşitlikçi bir topluluk oluşturmaktır. Aralarında en akıllı olan domuzlar, kısa sürede önder bir takım oluşturur; ama devrimi de yine onlar yolundan saptırır. Ne yazık ki insanlardan daha baskıcı, daha acımasız bir diktatörlük kurulmuştur artık. George Orwell, bu romanında tarihsel bir gerçeği eleştirmektedir. Romandaki önder domuzun, düpedüz Stalini simgelediği açıktır. Diğer kahramanlar gerçek kişileri çağrıştırmasalar da, bir diktatörlük ortamında olabilecek kişilerdir. Altbaşlığı Bir Peri Masalı olan Hayvan Çiftliği, bir masal anlatımıyla yazılmıştır; ama küçükleri eğlendirecek bir peri masalı değil, çarpıcı bir politik taşlamadır. (Tanıtım Bülteninden) \n\n
+        </item>
+
+        <item>
+            \t Yıl "1846"dır. Genç Dostoyevski, ilk romanı "İnsancıklar"ı tamamlar tamamlamaz ev arkadaşı yazar "Grigoroviç"e okutur. Grigoroviç o kadar heyecanlanır ki birkaç kez kalkıp "Fyodor"un boynuna sarılmak ister; fakat arkadaşının aşırı duygu gösterilerinden hoşlanmadığını bildiği için yapmaz. Grigoroviç ertesi gün romanı yazar ve yayımcı "Nekrasov"a götürür; kitaptan çok etkilenen Nekrasov da eleştirmen "Belinski"ye... "Yeni Gogol doğdu!" der, Nekrasov, daha kapı ağzında. Aynı günün akşamı, "Belinski"ye tekrar uğradığında onu heyecan içinde bulur: "Nerede kaldınız? Nerede bu Dostoyevskiniz? Genç mi? Kaç yaşında? Hemen getirin bana onu!" "Belinski"nin evine getirilen yirmi üç yaşındaki genç yazar, daha sonra orada olanları şöyle anlatacaktır: "Ve işte... beni onun yanına götürdüler. "Belinski"yi birkaç yıl önce heyecanla okumuştum, ama bana ürkütücü ve sert gelmişti ve benim "İnsancıklar"ımla alay edecek diye düşünüyordum. Beni çok saygılı ve ağırbaşlı bir şekilde karşıladı; ama daha bir dakika bile geçmeden her şey bambaşka oldu... Ateşli ateşli, alevli gözlerle konuşuyordu. "Siz kendiniz anlıyor musunuz?" diyordu bana tekrar tekrar, alışkanlığı olduğu üzere bağırarak, "Ne yazmış olduğunuzu anlıyor musunuz?.. Bütün bu korkunç gerçeği, bizlere göstermiş olduğunuz bu gerçeği siz mi düşündünüz? Olamaz, sizin gibi yirmi yaşında birinin bütün bunları anlamış olmasına imkân yok... Gerçeği keşfetmiş ve bir sanatçı olarak ilan etmişsiniz, size bir yetenek verilmiş, yeteneğinizin değerini bilin ve emin olun, siz büyük bir yazar olacaksınız." Yıl 2013. 167 yıl sonra Dostoyevski her kuşağın başucu yazarlarından olma özelliğini koruyor ve İnsancıklar, onun dünya edebiyatına ilk armağanı... \n\n
+        </item>
+
+        <item>
+            \t Her gün, daima öğleden sonra oraya gidiyor, koridorlardaki resimlere bakıyormuş gibi ağır ağır, fakat büyük bir sabırsızlıkla asıl hedefine varmak isteyen adımlarımı zorla zapt ederek geziniyor, rastgele gözüme çarpmış gibi önünde durduğum Kürk Mantolu "Madonna"yı seyre dalıyor, ta kapılar kapanıncaya kadar orada bekliyordum. Kimi tutkular rehberimiz olur yaşam boyunca. Kollarıyla bizi sarar. Sorgulamadan peşlerinden gideriz ve hiç pişman olmayacağımızı biliriz. Yapıtlarında insanların görünmeyen yüzlerini ortaya çıkaran Sabahattin Ali, bu kitabında güçlü bir tutkunun resmini çiziyor. Düzenin sildiği kişiliklere, yaşamın uçuculuğuna ve aşkın olanaksızlığına (?) dair, yanıtlanması zor sorular soruyor. \n\n
+        </item>
+
+        <item>
+            \t Rastlantı sonucu eline geçidiği bir kitapla satrancın inceliklerini öğrenerek bu oyunu bir tutkuya dönüştüren ve giderek bu tutkusu yüzünden beyin hummasına yakalanan Dr. "B."nin öyküsüdür görünüşte Satranç. Ama derinlerde bir veda mektubudur aslında. Stefan "Zweig"ın "Brezilya"da sürgündeyken yazdığı ve Şubat"1942"deki intiharından birkaç ay önce tamamladığı Satranç, Avrupa kültürünün nasyonal sosyalist tehlike altında yok oluşuna işaret eder. Avrupa kültürüne elveda derken yaşama da veda etmeyi seçen "Zweig"ın son yapıtı Satranç, gerilimli kurgusu ve kahramanın ruhsal gelgitlerinin işlendiği dokusuyla, kısa ama her bakımdan etkileyici olağanüstü bir uzun öyküdür. \n\n
+        </item>
+
+        <item>
+            \t "Sineklerin Tanrısı", günümüzde bir atom savaşı sırasında, ıssız bir adaya düşen bir avuç okul çocuğunun, geldikleri dünyanın bütün uygar törelerinden uzaklaşarak, insan yaradılışının temelindeki korkunç bir gerçeği ortaya koymalarını dile getirir. Konusu, R. M. "Ballantyne"ın Mercan Adası gibi eşsiz bir mercan adasının cenneti andıran ortamında başlayan bu roman, çağdaş toplumlardaki çöküntünün, insan yaradılışındaki köklerini gözönüne sermek amacıyla Mercan "Adası"ndaki duygusal iyimserlikten apayrı bir yönde gelişir. Uygar insanın yüreğinde gizlenen karanlığı deşerken "Sineklerin Tanrısı"; daha çok "Conrad"ın kısa romanı "Karanlığın Yüreği"ni andırır. "Golding"in romanındaki çocuklar da başlangıçta tıpkı Kurtz gibi, uygar toplumun baskılarından uzak bir örnek düzen kurmak isterlerken, gitgide hayvanlaşır, korkunç bir kişiliğe bürünürler. Bu yönüyle Sineklerin "Tanrısı"nın Mercan Adası ile öbür ıssız ada serüvenlerinden ayrıldığı en önemli nokta, ıssız ada yaşamının çetin güçlüklerini ya da mutluluğunu anlatmaktan daha çok, bir insanlık durumunu, kişiler arasındaki çatışma aracılığıyla ortaya koymaya çalışmasıdır. \n\n
+        </item>
+
+        <item>
+            \t "Adıvar"ın bugüne kadar defalarca basılmış, milyonlarca okur tarafından okunmuş ve güncelliğini hiç yitirmemiş romanı Sinekli Bakkal, Türk romanı içerisinde özel bir yere sahip. Roman dendiğinde aklımıza gelen ilk kitaplardan biri olan bu yapıtı Selim "İleri"nin yazdığı sonsöz eşliğinde sunuyoruz. Defalarca basılmış, kuşaklardan kuşaklara ulaşabilmiş Sinekli Bakkal, II. Abdülhamid dönemini bir geçmiş zaman dekoru önünde yansıtarak, eskiden yeniye devralınması gereken kültür, sanat ve töre değerleri üzerinde durur. Bir anlamda, yazar ve eseri, tarihi süreklilik arayışı içerisindedirler. \n\n
+        </item>
+
+        <item>
+            \t Yodor Mihayloviç Dostoyevski (1821-1881): İlk romanı İnsancıklar "1846"da yayımlandı. Ünlü eleştirmen V. Belinski bu eser üzerine "Dostoyevski"den geleceğin büyük yazarı olarak söz etti. Ancak daha sonra yayımlanan öykü ve romanları, çağımızda edebiyat klasikleri arasında yer alsa da, o dönemde fazla ilgi görmedi. Yazar "1849"da I. "Nikola"nın baskıcı rejimine muhalif Petraşevski grubunun üyesi olduğu gerekçesiyle tutuklandı. Kurşuna dizilmek üzereyken cezası sürgün ve zorunlu askerliğe çevrildi. Cezasını tamamlayıp "Sibirya"dan döndükten sonra "Petersburg"da Vremya dergisini çıkarmaya başladı, yazdığı romanlarla tekrar eski ününe kavuştu. \n\n
+
+            \t Suç ve Ceza "Dostoyevski"nin bütün dünyada en çok okunan başyapıtıdır. \n\n
+        </item>
+
+        <item>
+
+            \t "Yüzyıllık "Yalnızlık"ı yazmaya başladığımda, çocukluğumda beni etkilemiş olan her şeyi edebiyat aracılığıyla aktarabileceğim bir yol bulmak istiyordum. Çok kasvetli kocaman bir evde, toprak yiyen bir kız kardeş, geleceği sezen bir büyükanne ve mutlulukla çılgınlık arasında ayrım gözetmeyen, adları bir örnek bir yığın hısım akraba arasında geçen çocukluk günlerimi sanatsal bir dille ardımda bırakmaktı amacım. Yüzyıllık "Yalnızlık"ı iki yıldan daha kısa bir sürede yazdım, ama yazı makinemin başına oturmadan önce bu kitap hakkında düşünmek on beş, on altı yılımı aldı. Büyükannem, en acımasız şeyleri, kılını bile kıpırdatmadan, sanki yalnızca gördüğü olağan şeylermiş gibi anlatırdı bana. Anlattığı öyküleri bu kadar değerli kılan şeyin, onun duygusuz tavrı ve imgelerindeki zenginlik olduğunu kavradım. Yüzyıllık "Yalnızlık"ı büyükannemin işte bu yöntemini kullanarak yazdım. Bu romanı dikkat ve keyifle okuyan, hiç şaşırmayan sıradan insanlar tanıdım. Şaşırmadılar, çünkü ben onlara hayatlarında yeni olan bir şey anlatmamıştım, kitabımda gerçekliğe dayanmayan tek cümle bulamazsınız." \n\n
+        </item>
+
+    </string-array>
+
+</resources>
